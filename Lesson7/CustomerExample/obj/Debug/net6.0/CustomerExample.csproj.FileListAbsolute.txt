@@ -1,0 +1,15 @@
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\bin\Debug\net6.0\CustomerExample.exe
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\bin\Debug\net6.0\CustomerExample.deps.json
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\bin\Debug\net6.0\CustomerExample.runtimeconfig.json
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\bin\Debug\net6.0\CustomerExample.dll
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\bin\Debug\net6.0\CustomerExample.pdb
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\obj\Debug\net6.0\CustomerExample.csproj.AssemblyReference.cache
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\obj\Debug\net6.0\CustomerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\obj\Debug\net6.0\CustomerExample.AssemblyInfoInputs.cache
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\obj\Debug\net6.0\CustomerExample.AssemblyInfo.cs
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\obj\Debug\net6.0\CustomerExample.csproj.CoreCompileInputs.cache
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\obj\Debug\net6.0\CustomerExample.dll
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\obj\Debug\net6.0\refint\CustomerExample.dll
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\obj\Debug\net6.0\CustomerExample.pdb
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\obj\Debug\net6.0\CustomerExample.genruntimeconfig.cache
+C:\Users\kruzzze\RiderProjects\Lesson7\CustomerExample\obj\Debug\net6.0\ref\CustomerExample.dll

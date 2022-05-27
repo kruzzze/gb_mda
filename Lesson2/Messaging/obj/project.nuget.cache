@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NgQOWEH1wjieAvZ3MHhYuFIt9+2mHklOtlSs/6DmaQrF9Zs2S2OUaK0NVN/ePNpS2MzYzM+YGhWVXV4kd9UANA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kruzzze\\RiderProjects\\Lesson2\\Messaging\\Messaging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kruzzze\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\kruzzze\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\kruzzze\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\kruzzze\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kruzzze\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kruzzze\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

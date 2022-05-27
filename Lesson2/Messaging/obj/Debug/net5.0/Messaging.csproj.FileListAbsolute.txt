@@ -1,0 +1,12 @@
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\bin\Debug\net5.0\Messaging.deps.json
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\bin\Debug\net5.0\Messaging.dll
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\bin\Debug\net5.0\ref\Messaging.dll
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\bin\Debug\net5.0\Messaging.pdb
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\obj\Debug\net5.0\Messaging.csproj.AssemblyReference.cache
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\obj\Debug\net5.0\Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\obj\Debug\net5.0\Messaging.AssemblyInfoInputs.cache
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\obj\Debug\net5.0\Messaging.AssemblyInfo.cs
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\obj\Debug\net5.0\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\obj\Debug\net5.0\Messaging.dll
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\obj\Debug\net5.0\ref\Messaging.dll
+C:\Users\kruzzze\RiderProjects\Lesson2\Messaging\obj\Debug\net5.0\Messaging.pdb
